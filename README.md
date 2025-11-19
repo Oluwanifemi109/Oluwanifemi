@@ -1,8 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=800&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Oluwanifemi+Dipe;Growth+Marketing+%26+Data+Analyst;Turning+data+into+growth+decisions;Learn+%E2%86%92+Unlearn+%E2%86%92+Relearn+%F0%9F%94%84" alt="Typing SVG" />
-</h1>
-
-
 
 ## 🧑‍💻About Me
 
@@ -38,6 +33,7 @@ Today, my day-to-day usually looks like this:
 - Writing SQL queries to uncover deeper insights from databases  
 - Translating findings into simple, actionable recommendations that marketing, business, and product teams can implement right away
 
+---
 
 ## 🛠️ **My Toolkit**
 
@@ -60,6 +56,7 @@ Today, my day-to-day usually looks like this:
 **Productivity & Others**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
 
 ## 💼 **Featured Projects**
 
@@ -70,6 +67,8 @@ Analyzed **$9.9M revenue (2017–2020)** for PrimeBeverage Distribution Ltd. to 
 - Tracked **KPIs, category profitability, supplier performance, and channel segmentation**
 - Delivered insights on Beer-driven collapse (70%+ share), seasonal peaks, top SKUs (Corona/Heineken), and wholesale channel strength for immediate turnaround actions
 
+---
+
 ## 📊 **What I Deliver**
 
 - Clear, human insights that turn raw data into “💡” moments  
@@ -78,6 +77,8 @@ Analyzed **$9.9M revenue (2017–2020)** for PrimeBeverage Distribution Ltd. to 
 - A curious, no-assumptions approach that bridges the gap between data, marketing, and real business results  
 
 In short: I don’t just show you the numbers, I help you make smarter moves because of them.
+
+---
 
 ## 🤝 Let's Connect...
 
