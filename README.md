@@ -69,7 +69,7 @@ Analyzed **$9.9M revenue (2017–2020)** for PrimeBeverage Distribution Ltd. to 
 - Tracked **KPIs, category profitability, supplier performance, and channel segmentation**
 - Delivered insights on Beer-driven collapse (70%+ share), seasonal peaks, top SKUs (Corona/Heineken), and wholesale channel strength for immediate turnaround actions
 
-  **Tech:**
+  **Tool:**
   ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MS PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 
@@ -81,8 +81,19 @@ Analyzed 152,000+ ad records and £1.2M+ in paid spend across Facebook, Pinteres
 - Built full SQL pipeline + 6 executive visualizations revealing winning creatives (“Discount” ads), city strategies, and Q4 seasonality
 - Delivered actionable 2024 budget reallocation plan projected to add £410k+ profit at same spend level (+29% conversions, ROAS 2.1× → 3.4×)
 
-  **Tech:**
+  **Tool:**
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+## 🛒 Driving UK E-Commerce Growth with Hybrid Recommendations & Customer Analytics
+Transformed 541k transactions (£1.1M revenue) from a UK online gift retailer into a full personalization engine and customer intelligence system.
+
+- Built RFM segmentation for 4,372 customers + cohort retention analysis
+- Developed a true hybrid recommendation system (Apriori association rules + TF-IDF content-based)
+- Generated 5 high-confidence personalized recommendations for every customer (340% lift vs random)
+- Delivered actionable system capable of adding £280k–£430k annual profit through higher AOV, cross-sell, and win-back campaigns
+
+**Tool:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![MLxtend](https://img.shields.io/badge/MLxtend-FF6F61?style=for-the-badge) ![Scikit--learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
 ---
 
