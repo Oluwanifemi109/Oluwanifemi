@@ -74,7 +74,7 @@ Analyzed **$9.9M revenue (2017–2020)** for PrimeBeverage Distribution Ltd. to 
 
 
 ## 📊 Paid Advertising ROI Optimization – LuxeTrend Fashion (2023)
-Analyzed 152,000+ ad records and £1.2M+ in paid spend across Facebook, Pinterest, Google Ads & TikTok for a UK online fashion retailer.
+Analyzed 152,000+ ad records and £1.2M+ in paid spend across Facebook, Pinterest & Instagram for a UK online fashion retailer.
 
 - Identified Pinterest Desktop as the top-performing channel (468% avg ROI) and Fall campaign delivering 30% higher conversions vs Spring
 - Proved Desktop converts at 23.99% (vs Mobile 20.42%) – reversing the “mobile-only” assumption
