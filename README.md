@@ -18,7 +18,7 @@ My mission is simple:
 ## 🚶‍➡️ **My Journey**
 
 I started out deeply curious about businesses:  
-**What do they really want? How can they get it? What do they fear, and how can they reduce the risk?**
+**What do they really want? How can they get it? What do they fear, and how can they reduce the risks of it happening?**
 
 Those early questions and experiments taught me one big lesson:  
 Teams don’t just need more sales, revenue, or engagement.  
